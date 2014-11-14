@@ -77,7 +77,12 @@ public class HandControllerEditor : Editor {
 	controller.toolModel2 = 
 		(ToolModel)EditorGUILayout.ObjectField("Spatula",
 		                                       controller.toolModel2,
-		                                       typeof(ToolModel), true);
+			                                       typeof(ToolModel), true);
+		
+		controller.parent = 
+			(GameObject)EditorGUILayout.ObjectField("Parent",
+			                                       controller.parent,
+			                                       typeof(GameObject), true);
 
     controller.handMovementScale =
         EditorGUILayout.Vector3Field("Hand Movement Scale", controller.handMovementScale);

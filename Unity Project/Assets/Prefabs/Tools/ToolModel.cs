@@ -54,12 +54,12 @@ public class ToolModel : MonoBehaviour {
   }
 
   public void InitTool() {
-    transform.position = GetToolTipPosition();
+		transform.position = GetToolTipPosition() + GetController().parent.transform.position;
     transform.rotation = GetToolRotation();
   }
 
   public void UpdateTool() {
-    Vector3 target_position = GetToolTipPosition();
+		Vector3 target_position = GetToolTipPosition() + GetController().parent.transform.position;
     if (Time.deltaTime != 0) {
       rigidbody.velocity = (target_position - transform.position) *
                            (1 - filtering) / Time.deltaTime;

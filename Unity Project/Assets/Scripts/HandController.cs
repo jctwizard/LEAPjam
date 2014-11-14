@@ -14,6 +14,8 @@ public class HandController : MonoBehaviour {
   // Reference distance from thumb base to pinky base in mm.
   protected const float MODEL_PALM_WIDTH = 105.0f;
 
+  public GameObject parent;
+
   public bool separateLeftRight = false;
   public HandModel leftGraphicsModel;
   public HandModel leftPhysicsModel;
@@ -130,6 +132,10 @@ public class HandController : MonoBehaviour {
                            as ToolModel;
     tool_model.gameObject.SetActive(true);
     IgnoreCollisionsWithChildren(tool_model.gameObject);
+
+	// Assigns the tool a parent
+	tool_model.transform.parent = parent.transform;
+	
     return tool_model;
   }
 
