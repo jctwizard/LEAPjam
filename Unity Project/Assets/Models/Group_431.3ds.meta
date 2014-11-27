@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: 49f93c09969634b4b9e552fc959f9002
+guid: 15fb342dd0609495282abae375a81ca4
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: //RootNode
+    100000: 96_96_96
     100002: _Transluce
-    100004: Color_000
-    100006: FrontColor
+    100004: FrontColor
+    100006: //RootNode
     100008: Mesh01
     100010: Mesh02
     100012: Mesh03
@@ -22,11 +22,29 @@ ModelImporter:
     100032: Mesh13
     100034: Mesh14
     100036: Mesh15
-    100038: White
-    400000: //RootNode
+    100038: Mesh16
+    100040: Mesh17
+    100042: Mesh18
+    100044: Mesh19
+    100046: Mesh20
+    100048: Mesh21
+    100050: Mesh22
+    100052: Mesh23
+    100054: Mesh24
+    100056: Mesh25
+    100058: Mesh26
+    100060: Mesh27
+    100062: Mesh28
+    100064: Mesh29
+    100066: Mesh30
+    100068: Mesh31
+    100070: Mesh32
+    100072: Mesh33
+    100074: Mesh34
+    400000: 96_96_96
     400002: _Transluce
-    400004: Color_000
-    400006: FrontColor
+    400004: FrontColor
+    400006: //RootNode
     400008: Mesh01
     400010: Mesh02
     400012: Mesh03
@@ -42,11 +60,29 @@ ModelImporter:
     400032: Mesh13
     400034: Mesh14
     400036: Mesh15
-    400038: White
-    2300000: //RootNode
+    400038: Mesh16
+    400040: Mesh17
+    400042: Mesh18
+    400044: Mesh19
+    400046: Mesh20
+    400048: Mesh21
+    400050: Mesh22
+    400052: Mesh23
+    400054: Mesh24
+    400056: Mesh25
+    400058: Mesh26
+    400060: Mesh27
+    400062: Mesh28
+    400064: Mesh29
+    400066: Mesh30
+    400068: Mesh31
+    400070: Mesh32
+    400072: Mesh33
+    400074: Mesh34
+    2300000: 96_96_96
     2300002: _Transluce
-    2300004: Color_000
-    2300006: FrontColor
+    2300004: FrontColor
+    2300006: //RootNode
     2300008: Mesh01
     2300010: Mesh02
     2300012: Mesh03
@@ -62,11 +98,29 @@ ModelImporter:
     2300032: Mesh13
     2300034: Mesh14
     2300036: Mesh15
-    2300038: White
-    3300000: //RootNode
+    2300038: Mesh16
+    2300040: Mesh17
+    2300042: Mesh18
+    2300044: Mesh19
+    2300046: Mesh20
+    2300048: Mesh21
+    2300050: Mesh22
+    2300052: Mesh23
+    2300054: Mesh24
+    2300056: Mesh25
+    2300058: Mesh26
+    2300060: Mesh27
+    2300062: Mesh28
+    2300064: Mesh29
+    2300066: Mesh30
+    2300068: Mesh31
+    2300070: Mesh32
+    2300072: Mesh33
+    2300074: Mesh34
+    3300000: 96_96_96
     3300002: _Transluce
-    3300004: Color_000
-    3300006: FrontColor
+    3300004: FrontColor
+    3300006: //RootNode
     3300008: Mesh01
     3300010: Mesh02
     3300012: Mesh03
@@ -82,27 +136,63 @@ ModelImporter:
     3300032: Mesh13
     3300034: Mesh14
     3300036: Mesh15
-    3300038: White
+    3300038: Mesh16
+    3300040: Mesh17
+    3300042: Mesh18
+    3300044: Mesh19
+    3300046: Mesh20
+    3300048: Mesh21
+    3300050: Mesh22
+    3300052: Mesh23
+    3300054: Mesh24
+    3300056: Mesh25
+    3300058: Mesh26
+    3300060: Mesh27
+    3300062: Mesh28
+    3300064: Mesh29
+    3300066: Mesh30
+    3300068: Mesh31
+    3300070: Mesh32
+    3300072: Mesh33
+    3300074: Mesh34
     4300000: Model
-    4300002: Color_000
+    4300002: 96_96_96
     4300004: Mesh01
     4300006: Mesh02
     4300008: Mesh03
     4300010: Mesh04
-    4300012: FrontColor
-    4300014: Mesh05
-    4300016: Mesh06
-    4300018: Mesh07
-    4300020: White
-    4300022: Mesh08
-    4300024: Mesh09
-    4300026: Mesh10
-    4300028: Mesh11
-    4300030: Mesh12
-    4300032: Mesh13
-    4300034: _Transluce
-    4300036: Mesh14
-    4300038: Mesh15
+    4300012: Mesh05
+    4300014: Mesh06
+    4300016: Mesh07
+    4300018: Mesh08
+    4300020: Mesh09
+    4300022: Mesh10
+    4300024: Mesh11
+    4300026: Mesh12
+    4300028: Mesh13
+    4300030: Mesh14
+    4300032: Mesh15
+    4300034: Mesh16
+    4300036: Mesh17
+    4300038: Mesh18
+    4300040: FrontColor
+    4300042: Mesh19
+    4300044: Mesh20
+    4300046: Mesh21
+    4300048: Mesh22
+    4300050: Mesh23
+    4300052: Mesh24
+    4300054: Mesh25
+    4300056: Mesh26
+    4300058: _Transluce
+    4300060: Mesh27
+    4300062: Mesh28
+    4300064: Mesh29
+    4300066: Mesh30
+    4300068: Mesh31
+    4300070: Mesh32
+    4300072: Mesh33
+    4300074: Mesh34
     9500000: //RootNode
   materials:
     importMaterials: 1

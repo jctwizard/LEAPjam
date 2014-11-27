@@ -1,43 +1,68 @@
 fileFormatVersion: 2
-guid: c915986bf777649fc9fababf2ed4c21f
+guid: c92422836591a4c75943b47ff2c9ac3a
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Color_003
-    100004: Color_I19
-    100006: FrontColor
-    100008: Mesh01
-    100010: Mesh02
-    100012: Mesh03
+    100002: Material01
+    100004: Material02
+    100006: Material03
+    100008: Material04
+    100010: Material__
+    100012: Mesh01
+    100014: Mesh02
+    100016: Mesh03
+    100018: Mesh04
+    100020: Mesh13
+    100022: Mesh14
     400000: //RootNode
-    400002: Color_003
-    400004: Color_I19
-    400006: FrontColor
-    400008: Mesh01
-    400010: Mesh02
-    400012: Mesh03
+    400002: Material01
+    400004: Material02
+    400006: Material03
+    400008: Material04
+    400010: Material__
+    400012: Mesh01
+    400014: Mesh02
+    400016: Mesh03
+    400018: Mesh04
+    400020: Mesh13
+    400022: Mesh14
     2300000: //RootNode
-    2300002: Color_003
-    2300004: Color_I19
-    2300006: FrontColor
-    2300008: Mesh01
-    2300010: Mesh02
-    2300012: Mesh03
+    2300002: Material01
+    2300004: Material02
+    2300006: Material03
+    2300008: Material04
+    2300010: Material__
+    2300012: Mesh01
+    2300014: Mesh02
+    2300016: Mesh03
+    2300018: Mesh04
+    2300020: Mesh13
+    2300022: Mesh14
     3300000: //RootNode
-    3300002: Color_003
-    3300004: Color_I19
-    3300006: FrontColor
-    3300008: Mesh01
-    3300010: Mesh02
-    3300012: Mesh03
+    3300002: Material01
+    3300004: Material02
+    3300006: Material03
+    3300008: Material04
+    3300010: Material__
+    3300012: Mesh01
+    3300014: Mesh02
+    3300016: Mesh03
+    3300018: Mesh04
+    3300020: Mesh13
+    3300022: Mesh14
     4300000: Model
-    4300002: Color_003
-    4300004: Color_I19
-    4300006: FrontColor
-    4300008: Mesh01
-    4300010: Mesh02
-    4300012: Mesh03
+    4300002: Material01
+    4300004: Mesh01
+    4300006: Mesh02
+    4300008: Material02
+    4300010: Mesh03
+    4300012: Mesh04
+    4300014: Material03
+    4300016: Material04
+    4300018: Material__
+    4300020: Mesh13
+    4300022: Mesh14
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -58,14 +83,14 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .100000001
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importBlendShapes: 1
+    importBlendShapes: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
+    optimizeMeshForGPU: 0
     weldVertices: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
